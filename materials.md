@@ -4,18 +4,8 @@ title: Materials
 permalink: /materials/
 ---
 
-# Scripts for the workshop
-Here we will post R codes to run the model.
-
 ## Please install these packages
 * [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install the required packages that will be used in the model.
-
-## Simulation scenarios
-
-* [Scenario #1](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_1/): <strong> Group 1. </strong> 
-* [Scenario #2](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_2): <strong> Group 2.</strong> 
-* [Scenario #3](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_3): <strong> Group 3.</strong> 
-* [Scenario #4](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_4): <strong> Group 4.</strong> 
 
 
 ## Additional course material
