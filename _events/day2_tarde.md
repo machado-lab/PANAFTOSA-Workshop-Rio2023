@@ -9,7 +9,7 @@ hide_from_announcments: true
 _Select the initial infection condition (with your own data)_
 1. Seed infections and simulate disease spread (epidemic size).
 2. Simulate control and eradication actions (vaccination, depopulation, movement restrictions).
-3. Export and interpret outputs 
+3. Export and interpret outputs.
 
 
 

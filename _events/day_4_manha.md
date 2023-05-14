@@ -7,7 +7,7 @@ hide_from_announcments: true
 
 _Simulate FMD introduction and spread from swine, bovine, and small ruminant populations_
 1. Seed infections and estimate epidemic trajectories.
-2. Implement control and eradication actions
+2. Implement control and eradication actions.
 3. Extract model outputs for decision-making.
 4. Using the model outputs, propose the next steps for elimination.
 
