@@ -24,10 +24,6 @@ layout: default
     {% for offer in site.data.previous_offering.offerings %}
     <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
 
-
-
-
-
     {% endfor %}
     </ul>
     {% endif %}
@@ -69,12 +65,28 @@ layout: default
                     {% endif %}
                 </div>
                 
+                
                 {% endfor %}
             </div>
         </div>
-    </div>
-    <h1>Powered by </h1>
+        <div class="profile-pic-gallary ">
+            <h2>Staff</h2>
+            {% for ta in site.data.people.support_staff %}
+            <div class="image--cover-container">
+                <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                {% if ta.webpage %}
+                <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                {% else %}
+                <p>{{ta.name}}</p>
+                {% endif %}
+            </div>
 
+            {% endfor %}
+        </div>
+    </div><br/><br/><br/><br/><br/><br/><br/>
+
+
+    <h1>Powered by </h1>
     <div style="text-align:left;">
         <a href="https://www.paho.org/en/panaftosa"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/pahologo.png?raw=true" width="200" ></a>
         <a href="http://www.fundesa.com.br/"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/fundesalogo.jpg?raw=true" width="200" ></a>
