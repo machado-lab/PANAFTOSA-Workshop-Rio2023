@@ -9,7 +9,7 @@ baseurl: "/PANAFTOSA-Workshop-Rio2023" # the subpath of your site, e.g. /blog/
 url: "https://machado-lab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "NC State University"
-schoolurl: "https://cvm.ncsu.edu/"
+schoolurl: "https://cvm.ncsu.edu"
 newline_to_br: "NCSU"
 twitter_username: Gustavoetal  
 

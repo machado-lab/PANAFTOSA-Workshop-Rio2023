@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-05-12T8:00:00+4:30
+date: 2023-05-15T8:00:00+4:30
 title: 'Assignment # 2 - Use of data to prepare against FMD (Dealine 05/19/2023)'
 pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
