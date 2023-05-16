@@ -1,8 +1,8 @@
 ---
 type: assignment
 date: 2023-05-15T8:00:00+4:30
-title: 'Assignment # 2 - Use of data to prepare against FMD (Dealine 05/19/2023)'
-pdf: /static_files/presentations/second_act.pdf
+title: 'Assignment # 2 - Use of data to prepare against FMD (Dealine 05/19/2023), paper link listed below'
+#pdf: Link listed below
 due_event: 
     type: due
     date: 2023-05-19T8:00:00+4:30
