@@ -4,7 +4,7 @@ date: 2023-12-03T10:00:00+3:30
 Group list 
 
 1. <strong>Group 1</strong> will utilize <u>cattle</u> as initial infection (María Natalia Aznar; Ana Carolina Schmidt; Felipe Peixoto de Arruda; Diego Viali; Fernando Endrigo Garcia)
-3. <strong>Group 2</strong> will utilize <u>swine</u> as initial infection (André de Medeiros C. Lins
+3. <strong>Group 2</strong> will utilize <u>swine</u> as initial infection (André de Medeiros C. Lins;
 Daniel Gareca Vaca;
 Guilherme Marques;
 Luz Jacqueline Aguilar Narváez)
