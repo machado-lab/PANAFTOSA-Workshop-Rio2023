@@ -8,7 +8,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
    #   name: codes
-    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/
+    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/blob/main/static_files/lectures/3_MHASpread_workshop_revisiting_FMD_epidemiology.pdf
       name: slides
 ---
 **Suggested Readings:**
