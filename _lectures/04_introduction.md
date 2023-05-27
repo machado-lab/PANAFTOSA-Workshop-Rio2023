@@ -8,7 +8,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
    #   name: codes
-    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/
+    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/blob/main/static_files/lectures/4_MHASpread_workshop_introduction_to_transmission_models.pdf
       name: slides
 ---
 **Suggested Readings:**
