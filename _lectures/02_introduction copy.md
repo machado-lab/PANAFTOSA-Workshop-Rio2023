@@ -8,7 +8,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
    #   name: codes
-    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/
+    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/blob/main/static_files/lectures/2_MHASpread_importance_of_the_response_plan_in_outbreak_events.pdf
       name: slides
 ---
 **Suggested Readings:**
