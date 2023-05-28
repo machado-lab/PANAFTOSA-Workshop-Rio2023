@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-09-15T8:20:00+4:30
-title: FMD model reading
+title: 0. FMD model reading
 tldr: "Read paper describing the model you will use in this workshop"
 links: 
    # - url: /static_files/presentations/lec.zip

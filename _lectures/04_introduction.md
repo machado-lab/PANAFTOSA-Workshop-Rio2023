@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-11-16T8:11:00+4:30
-title: 4. Gentle introduction to transmission models
+title: 5. Gentle introduction to transmission models
 tldr: "Math modelling"
 links: 
    # - url: /static_files/presentations/lec.zip

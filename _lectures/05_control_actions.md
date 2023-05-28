@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-11-16T8:11:00+4:30
-title: 5. Explaining MHASpread control actions
+title: 6. Explaining MHASpread control actions
 tldr: "Detail description of MHASpread control actions"
 links: 
    # - url: /static_files/presentations/lec.zip

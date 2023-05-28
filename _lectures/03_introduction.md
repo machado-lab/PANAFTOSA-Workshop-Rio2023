@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-11-16T8:11:00+4:30
-title: 3. Revisiting foot-and-mouth disease epidemiology
+title: 4. Revisiting foot-and-mouth disease epidemiology
 tldr: "Past FMD in Brazil"
 links: 
    # - url: /static_files/presentations/lec.zip
