@@ -8,6 +8,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
    #   name: codes
-    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/blob/main/static_files/lectures/5_Workshop_Nicolas_lecture_PAHO_may.pdf
+    - url: /static_files/lectures/5_Workshop_Nicolas_lecture_PAHO_may.pdf
       name: slides
 ---
+

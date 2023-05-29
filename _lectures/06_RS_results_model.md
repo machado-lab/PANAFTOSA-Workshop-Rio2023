@@ -10,6 +10,6 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
    #   name: codes
-    - url: https://github.com/machado-lab/PANAFTOSA-Workshop-Rio2023/blob/main/static_files/lectures/6_Modeling foot-and-mouth disease dissemination in Brazil_NCC.pdf
+    - url: /static_files/lectures/6_Modeling foot-and-mouth disease dissemination in Brazil_NCC.pdf
       name: slides
 ---
