@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-11-16T8:11:00+4:30
-title: 6. Modeling foot-and-mouth disease dissemination in Brazil
+date: 2023-20-16T8:11:00+4:30
+title: 7. Modeling foot-and-mouth disease dissemination in Brazil
 Evaluating the effectiveness of control measures
 tldr: "Modeling foot-and-mouth disease dissemination in Brazil
 Evaluating the effectiveness of control measures"
