@@ -11,3 +11,4 @@ links:
     - url: /static_files/lectures/6_Modeling foot-and-mouth disease dissemination in Brazil_NCC.pdf
       name: slides
 ---
+**Suggested Readings:**
