@@ -4,10 +4,6 @@ title: Materials
 permalink: /materials/
 ---
 
-## Please install these packages
-* [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install the required packages that will be used in the model.
-
-
 ## Additional course material
 ### How to install R and RStudio
 
